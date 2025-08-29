@@ -9,7 +9,7 @@ terraform {
     workspaces {
       name = "learn-terraform"
     }
-  }
+  } ****************************************************
 */
   required_providers {
     aws = {
